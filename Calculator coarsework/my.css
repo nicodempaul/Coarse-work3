@@ -1,0 +1,54 @@
+#cal{
+    background-color: black;
+    width: 400px;
+    padding: 20px;
+    margin: 50px;
+    
+
+}
+
+.sec{
+    background-color: white;
+    font-size:20px;
+    width: 50px;
+    height:30px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    font-size: 30px;
+    
+}
+
+.b1{
+    display: flex;
+}
+
+.b2{
+    width: 330px;
+    background-color: orangered;
+    height: 40px;
+    padding: 10px;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+
+.b3{
+    width: 370px;
+    background-color: white;
+    height: 80px;
+    padding: 10px;
+    
+}
+
+.b4{
+    background-color:red;
+    font-size:20px;
+    width: 50px;
+    height:30px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    font-size: 30px;
+    
+}
